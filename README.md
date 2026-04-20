@@ -1,6 +1,10 @@
 # Enable Gemini in Chrome (Windows)
 
-ChromeのビルトインAI機能（Gemini）をWindowsで有効化するバッチスクリプトです。
+## これは何？
+
+2026年4月20日現在、**Gemini in Chrome は日本国内の Windows 版 Chrome では利用できません。**
+
+このプログラムは、Chrome の設定ファイルを書き換えることで、日本国内でも Gemini in Chrome を強制的に有効化するための Windows 用バッチスクリプトです。
 
 ## 有効になる機能
 
